@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HPC/Notes/Class-2.md",
+                "file": "HPC/Notes/Cache Performance Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class-2"
+              "title": "Cache Performance Review"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "f05078c36f36057e",
   "lastOpenFiles": [
-    "HPC/Notes/Class-1.md",
     "HPC/Notes/Class-2.md",
+    "HPC/Notes/Cache Performance Review.md",
+    "HPC/Notes/Class-1.md",
     "ML/resources_from_prof/Ethem Alpaydin-Introduction to Machine Learning-The MIT Press (2014).pdf",
     "ML/resources_from_prof",
     "ML/New folder",
