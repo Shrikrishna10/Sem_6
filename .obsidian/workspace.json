@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HPC/Notes/Cache Performance Review.md",
+                "file": "MemDes/Notes/SRAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cache Performance Review"
+              "title": "SRAM"
             }
           }
         ]
@@ -164,9 +164,12 @@
   },
   "active": "f05078c36f36057e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "MemDes/Notes/SRAM.md",
+    "HPC/Notes/Cache Performance Review.md",
+    "MemDes/Notes",
     "Crypto/resources_from_prof/Forouzan.pdf",
     "HPC/Notes/Class-2.md",
-    "HPC/Notes/Cache Performance Review.md",
     "HPC/Notes/Class-1.md",
     "ML/resources_from_prof/Ethem Alpaydin-Introduction to Machine Learning-The MIT Press (2014).pdf",
     "ML/resources_from_prof",
@@ -175,8 +178,6 @@
     "New folder",
     "TLWA/resources_from_prof/Harish-A-R-Sachidananda-M-Antennas-and-Wave book.pdf",
     "TLWA/resources_from_prof/Pozar. Microwave Engineering.pdf",
-    "TLWA/resources_from_prof",
-    "TLWA/New folder",
-    "TLWA/Harish-A-R-Sachidananda-M-Antennas-and-Wave book.pdf"
+    "TLWA/resources_from_prof"
   ]
 }
